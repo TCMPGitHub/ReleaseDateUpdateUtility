@@ -3,3 +3,8 @@
 ################################################################################
 
 /bin/Debug/Log
+/bin/Release/Log
+/bin/Debug
+/bin/Release
+/obj/Debug
+/obj/Release
